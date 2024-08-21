@@ -73,10 +73,12 @@ One way is to take the string, devide it into triplets then make them pixels, fo
 
 This string can be devided into pixels, because each character represents an integer (using [ASCII](https://fr.wikipedia.org/wiki/Fichier:ASCII-Table-wide.svg))
 
+```
 Pixel 1: "ABC" -> (65, 66, 67)
 Pixel 2: "DEF" -> (68, 69, 70)
 Pixel 3: "GHI" -> (71, 72, 73)
 ...
+```
 
 But there is a function that does the job:
 

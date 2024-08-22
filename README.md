@@ -103,6 +103,7 @@ int main(void) {
 }
 ```
 
+Output:
 ![Output](images/output-2.png)
 
 ## How can I get the strings?
